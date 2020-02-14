@@ -1,0 +1,7 @@
+this is 
+a creation 
+for Abe 651
+I used to use gedit before this 
+and nano before that
+and i believe that they are good tools
+however after using vim i must say that i like it

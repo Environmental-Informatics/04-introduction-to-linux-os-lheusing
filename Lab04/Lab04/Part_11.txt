@@ -1,0 +1,7 @@
+udev
+
+#added comments via gedit
+#done on personal linux pc if file is different than normal
+#commanded this file via
+# ls /etc |tail -20|head -1  > Part_11.txt 
+
